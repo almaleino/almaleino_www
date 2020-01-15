@@ -1,0 +1,33 @@
+header {
+    background-color:rgb(149, 149, 226);
+    font-size:7;
+    
+}
+
+navbar {
+    background-color:pink;
+}
+
+navbar > div {
+    background-color:pink;
+}
+
+article {
+    text-align:right;
+    background-color:pink;
+}
+
+footer {
+    color:white;
+    background-color:black;
+
+
+}
+
+.box {
+    float:right;
+    width:200px;
+    margin:20px;
+    background-color:green;
+    min-height:400px;
+}
